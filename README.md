@@ -2,6 +2,7 @@
 
 このPythonスクリプトはPython　LightGBMで多クラス分類＆SHAPで予測を実装しています。
 
+👉 [ipynbファイルはこちら] (https://github.com/iwakazusuwa/ipynb_LightGBM_SHAP_car)
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
